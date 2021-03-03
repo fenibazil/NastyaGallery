@@ -1,14 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
 body {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    font-family: 'Marck Script', cursive;
 }
 
 h1 {
     font-size: 64px;
     margin: 3rem;
     text-align: center;
+    font-family: 'Marck Script', cursive;
+}
+
+h2 {
+    font-family: 'Marck Script', cursive;
+}
+
+p {
+    font-family: 'Marck Script', cursive;
 }
 
 img {
